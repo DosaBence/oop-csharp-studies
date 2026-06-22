@@ -13,7 +13,7 @@ Framework: .NET Console Application
 
 Concepts: Object-Oriented Programming (OOP), Polymorphism, Encapsulation, File I/O (StreamReader/StreamWriter), String Parsing.
 
-Clone the repository or download the source files.
-Open the desired .cs file in an IDE (e.g., Visual Studio or Visual Studio Code).
-Ensure target text files for reading/writing operations are placed in the correct build directory.
-Compile and run the application.
+1. Clone the repository or download the source files.
+2. Open the desired .cs file in an IDE (e.g., Visual Studio or Visual Studio Code).
+3. Ensure target text files for reading/writing operations are placed in the correct build directory.
+4. Compile and run the application.
